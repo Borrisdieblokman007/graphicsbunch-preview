@@ -1,0 +1,28 @@
+{
+  "name": "Pixwharf",
+  "short_name": "Pixwharf",
+  "description": "Private image tools for online sellers. Files stay on this device.",
+  "start_url": "/pixwharf-preview/",
+  "scope": "/pixwharf-preview/",
+  "display": "standalone",
+  "background_color": "#fafafb",
+  "theme_color": "#091f3d",
+  "icons": [
+    {
+      "src": "/pixwharf-preview/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pixwharf-preview/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/pixwharf-preview/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

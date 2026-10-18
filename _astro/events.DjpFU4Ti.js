@@ -1,0 +1,1 @@
+var e=new Set([`tool`,`plan`]);function t(t){let n={};if(!t)return n;for(let[r,i]of Object.entries(t))e.has(r)&&(n[r]=i.slice(0,40));return n}function n(e,n){if(typeof window>`u`)return;let r=t(n),i=window.umami;i&&i.track(e,r)}export{n as t};
