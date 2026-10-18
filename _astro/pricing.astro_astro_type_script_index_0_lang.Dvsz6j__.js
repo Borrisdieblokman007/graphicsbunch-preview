@@ -1,0 +1,1 @@
+import{t as e}from"./events.DjpFU4Ti.js";import{t}from"./member-offer.B6IgmmOa.js";e(`pricing_view`),t(),document.querySelectorAll(`[data-polar-checkout]`).forEach(t=>{t.addEventListener(`click`,()=>{let n=t.dataset.plan||`year`;e(`checkout_click`,{plan:n})})});
