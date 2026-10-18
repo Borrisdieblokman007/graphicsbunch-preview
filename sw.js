@@ -1,4 +1,4 @@
-const CACHE = 'pixwharf-shell-v1';
+const CACHE = 'gb-shell-v2';
 
 function scopePath() {
   return new URL('./', self.location).pathname;

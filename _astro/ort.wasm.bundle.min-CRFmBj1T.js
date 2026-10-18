@@ -1,4 +1,4 @@
-import{n as e}from"./image.worker-BOS7K2sh.js";
+import{n as e}from"./image.worker-Ea6hxTs8.js";
 /*!
 * ONNX Runtime Web v1.21.0
 * Copyright (c) Microsoft Corporation. All rights reserved.

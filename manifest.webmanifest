@@ -1,6 +1,6 @@
 {
-  "name": "Pixwharf",
-  "short_name": "Pixwharf",
+  "name": "Graphics Bunch",
+  "short_name": "Graphics Bunch",
   "description": "Private image tools for online sellers. Files stay on this device.",
   "start_url": "/pixwharf-preview/",
   "scope": "/pixwharf-preview/",
