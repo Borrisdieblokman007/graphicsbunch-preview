@@ -1,0 +1,34 @@
+Example pictures on the Graphics Bunch tools site
+Created 24 Oct 2026 for this project.
+
+Every picture is original artwork drawn for Graphics Bunch.
+No store designs are used. No Unsplash, Pexels or other third-party photos are used.
+Where a tool has a pixel function, that function from packages/engine was run on the drawing.
+Files are PNG, WebP and AVIF. AVIF and WebP are the preferred sources. PNG is the fallback.
+
+cutout: Original artwork of a mug on a table, and the same mug drawn on a checker so the cut-out reads. Not a Graphics Bunch store design. The live tool uses MODNet on your photo.
+edge: Original star with a white semi-transparent fringe. The after file is that bitmap after engine defringe against white and hardenAlpha.
+dpi: Original monogram. Before is a nearest-neighbour enlarge of a small copy, which is what a plain scale looks like. After is the crisp drawing, and the PNG is tagged 300 DPI with engine setPngDpi. The tag does not add detail.
+compress: Same original mug scene. Before is a coarse copy standing in for a heavy, soft file. After is the clean drawing the converter would keep.
+watermark: Original mug. The after picture tiles the word STUDIO, the same kind of text stamp the watermark tool draws.
+mirror: Original wrap artwork. After is engine flipHorizontal, the mirror used for sublimation.
+seam: Original tiles. The seamless tile scores 4.80 from engine seamScore (lower means the opposite edges agree). The before tile has a painted border so the join shows.
+colour: Original white artwork. After is a multiply onto coral, the same blend the colour preview uses so white takes the blank colour.
+template: Original wrap and a mug guide drawn for this page. It is not a press template and not a store design. The tool itself builds the PDF at the blank size.
+sheet: Original sticker art, once, then repeated on an A4-shaped sheet the way the print sheet lays a gang.
+svg: Original blocky art beside a clean star. The PNG to SVG tool traces flat shapes. This pair shows that idea. It is not output from a GPL tracer.
+square: Original mug scene filling the frame, then the same scene inset with an even white border.
+daylight: Original scene, darkened with a blue cast. After is engine enhanceRgba (grey-world balance, levels and a light sharpen).
+shadow: Original mug on white. The ellipse uses engine contactShadow for the centre and radii. Amazon main images should stay without this shadow.
+scene: Original mug on white, then the same drawing placed on a navy shelf drawn for this project. Not a stock photo and not a store design.
+meta: Original diagram of a metadata report. The tool strips EXIF and GPS and keeps a JPEG profile. No real GPS coordinates are in the file.
+name: Original before and after filenames. The helper builds a hyphenated product-colour-material name.
+fee: Original estimate card. The calculator uses the rates cited on its page. This picture is not an invoice.
+download: Original pass and fail cards for the digital download limits: 5 files, 20 MB, 70 safe characters.
+pdf: Original page-size diagram. The checker reads the PDF on this device and does not edit it.
+size: Original diagram. 8 inches at 300 DPI is 2400 pixels, from the print-size maths in the engine.
+picker: Original flowers. The swatch is coral #F15957 from the Graphics Bunch palette, the sort of hex the picker copies.
+pdfpack: Original pictures gathered onto one A4-shaped page.
+recipe: Original sketch of loose files becoming one zip. Recipes chain the shared presets on this device.
+heic: Original diagram of a phone HEIC becoming a JPEG. The converter decodes HEIC in the browser.
+print: Original pass and warn marks for the print-ready checker.
