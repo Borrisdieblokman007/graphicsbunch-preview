@@ -32,3 +32,6 @@ pdfpack: Original pictures gathered onto one A4-shaped page.
 recipe: Original sketch of loose files becoming one zip. Recipes chain the shared presets on this device.
 heic: Original diagram of a phone HEIC becoming a JPEG. The converter decodes HEIC in the browser.
 print: Original pass and warn marks for the print-ready checker.
+profile: Original drawing of a square photo beside a circle crop on a colour ground with a ring. Not a platform logo and not a store design.
+banner: Original drawing of a full photo beside a wide cover. The pale band marks a safe zone. It is not a logo and not a store design.
+post: Original drawing of a photo fitted inside a taller frame so the edges stay visible. The spare space is a flat colour. Not a store design.

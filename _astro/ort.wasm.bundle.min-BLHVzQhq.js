@@ -1,4 +1,4 @@
-import{n as e}from"./recipe.worker-D6scTWsK.js";
+import{n as e}from"./recipe.worker-BJbRlWkp.js";
 /*!
 * ONNX Runtime Web v1.21.0
 * Copyright (c) Microsoft Corporation. All rights reserved.
